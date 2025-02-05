@@ -3,7 +3,7 @@ import requests
 
 
 # API Endpoint
-BACKEND_URL = "http://127.0.0.1:8000/process_pdf/"
+BACKEND_URL = "https://pdf-qa-app-bw1f.onrender.com/process_pdf/"
 
 st.title("📄 AI-Powered PDF Q&A (No Storage)")
 st.write("Upload a PDF, ask a question, and get instant answers!")
